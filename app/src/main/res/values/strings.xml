@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aposentadoria</string>
+    <string name="genero">Selecione o Gênero:</string>
+    <string name="digite_idade">Idade</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado...</string>
+    <string name="erro_idade">Digite sua idade</string>
+    <string name="erro_genero">Selecione o gênero</string>
+</resources>
